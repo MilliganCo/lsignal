@@ -1,5 +1,7 @@
 # LSignal
 
+> Public source preview: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known failures and runtime limits.
+
 ## О проекте
 
 `LSignal` — атмосферный игровой прототип на `pygame`, в центре которого находятся аномалии, игровые события и состояние мира. По структуре проект выглядит как экспериментальная игра с мрачной подачей, где логика, визуализация и ввод уже разнесены по отдельным модулям.
@@ -27,3 +29,8 @@ python main.py
 ## Статус
 
 `WIP`. Это уже самостоятельный игровой каркас с читаемой архитектурой, но проект выглядит как развиваемый прототип, а не финальная игра.
+
+
+## Public source status — 2026-10-29
+
+See [PUBLICATION.md](PUBLICATION.md) for the current verification scope, prototype limitations and runtime boundaries. Earlier audit checklists describe historical work.
